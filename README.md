@@ -4,7 +4,9 @@ Covid map webapp
 
 ## Installation
 
-Just clone this repo and open up index.html, don't worry about shadow-cljs stuff for now. Since this is a proof of concept, this is just rough stuff. 
+Just go to public/index.html
+
+<!-- ## Installation
 
 You're going to need node and npm. If you don't have any of that, click here for installation. https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
@@ -20,4 +22,4 @@ Afterwards, run
 npx shadow-cljs watch client
 ```
 
-Then open up your browser to localhost:8080
+Then open up your browser to localhost:8080 -->
