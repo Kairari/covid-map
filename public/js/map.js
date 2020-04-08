@@ -126,27 +126,37 @@ $("#container").mapael({
         // India
         "IN": {
             value: 9.5,
-            href: "https://en.wikipedia.org/wiki/India"
+            href: "https://docs.google.com/document/d/105QExpbuR9AccMRahDKt51knvQ1qHRQ5Hf7vvcnVN-Y/edit?usp=sharing"
         },
         // Mongolia
         "MN": {
             value: 0,
-            href: "https://en.wikipedia.org/wiki/India"
+            href: "https://en.wikipedia.org/wiki/Mongolia"
         },
         // Kazakhstan
         "KZ": {
             value: 2,
-            href: "https://en.wikipedia.org/wiki/India"
+            href: "https://en.wikipedia.org/wiki/Kazakhstan"
+        },
+        // Norway
+        "NO": {
+            value: 2,
+            href: "https://en.wikipedia.org/wiki/Norway"
+        },
+        // Sweden
+        "SE": {
+            value: 4,
+            href: "https://en.wikipedia.org/wiki/Sweden"
         },
         // Germany
         "DE": {
-            value: 1,
-            href: "https://en.wikipedia.org/wiki/India"
+            value: 0,
+            href: "https://en.wikipedia.org/wiki/Germany"
         },
         // Kenya
         "KE": {
             value: 4,
-            href: "https://en.wikipedia.org/wiki/India"
+            href: "https://en.wikipedia.org/wiki/Kenya"
         },
         // Indonesia
         "ID": {
@@ -156,22 +166,22 @@ $("#container").mapael({
         // Iraq
         "IQ": {
             value: 9,
-            href: "https://en.wikipedia.org/wiki/Indonesia"
+            href: "https://en.wikipedia.org/wiki/Iraq"
         },
         // Iran
         "IR": {
             value: 4,
-            href: "https://en.wikipedia.org/wiki/Indonesia"
+            href: "https://en.wikipedia.org/wiki/Iran"
         },
         // Pakistan
         "PK": {
             value: 10,
-            href: "https://en.wikipedia.org/wiki/Indonesia"
+            href: "https://docs.google.com/document/d/17naBZcAOEfMv28mtm06k83jRrozVqGQ7ZSHwC8njOSg/edit?usp=sharing"
         },
         // Italy
         "IT": {
-            value: 4,
-            href: "https://en.wikipedia.org/wiki/Indonesia"
+            value: 2,
+            href: "https://en.wikipedia.org/wiki/Italy"
         },
         // Bangladesh
         "BD": {
@@ -181,52 +191,52 @@ $("#container").mapael({
         // Libya
         "LB": {
             value: 4,
-            href: "https://en.wikipedia.org/wiki/Libya"
+            href: "https://en.wikipedia.org/wiki/Libya",
         },
         // United States USA
         "US": {
             value: 3,
-            href: "#"
+            href: "https://en.wikipedia.org/wiki/United_States",
         },
         // France
         "FR": {
             value: 3,
-            href: "#"
+            href: "https://en.wikipedia.org/wiki/France",
         },
         // Brazil
         "BR": {
-            value: 3,
-            href: "#"
+            value: 4,
+            href: "https://en.wikipedia.org/wiki/Brazil",
         },
         // Vietnam
         "VN": {
-            value: 3,
-            href: "http://www.google.com",
+            value: 2,
+            href: "https://en.wikipedia.org/wiki/Vietnam",
         },
         // Taiwan
         "TW": {
             value: -6,
-            href: "http://www.google.com",
+            href: "https://en.wikipedia.org/wiki/Taiwan",
         },
         // Argentina
         "AR": {
             value: 7,
-            href: "http://www.google.com",
+            href: "https://en.wikipedia.org/wiki/Argentina",
         },
         // Afghanistan
         "AF": {
             value: 2,
-            href: "http://www.google.com",
+            href: "https://en.wikipedia.org/wiki/Afghanistan",
         },
         // Colombia
         "CO": {
-            value: 7,
-            href: "http://www.google.com",
+            value: 4,
+            href: "https://en.wikipedia.org/wiki/Colombia",
         },
         // New Zealand
         "NZ": {
             value: 1,
-            href: "www.google.com",
+            href: "https://en.wikipedia.org/wiki/New_Zealand",
         },
     }
 });
