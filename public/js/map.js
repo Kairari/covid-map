@@ -110,7 +110,7 @@ $("#container").mapael({
         // Philippines
         "PH": {
             value: 10,
-            href: "#",
+            href: "country.html?country=PH",
             tooltip: createTooltip("PH", "high", "high", "low")
         },
         // Australia
@@ -143,7 +143,7 @@ $("#container").mapael({
         // India
         "IN": {
             value: 9.5,
-            href: "https://docs.google.com/document/d/105QExpbuR9AccMRahDKt51knvQ1qHRQ5Hf7vvcnVN-Y/edit?usp=sharing",
+            href: "country.html?country=IN",
             tooltip: createTooltip("IN", "high", "high", "low")
         },
         // Mongolia
