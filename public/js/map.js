@@ -214,7 +214,8 @@ $("#container").mapael({
         // United States USA
         "US": {
             value: 3,
-            href: "https://en.wikipedia.org/wiki/United_States",
+            href: "country.html?country=US",
+            tooltip: createTooltip("US", "high", "high", "low")
         },
         // France
         "FR": {
